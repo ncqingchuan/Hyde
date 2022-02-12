@@ -13,7 +13,6 @@ object App {
       partition = null,
       messageHandler = t => {
         println(t.value())
-
       }
     )
 
